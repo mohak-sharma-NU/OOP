@@ -1,0 +1,7 @@
+Name: MOhak Sharma
+ID: 253002
+PF Lab: 59 PF Theory: 60
+Courses:
+OOP Lab
+OOP Theory
+Total credits: 6
